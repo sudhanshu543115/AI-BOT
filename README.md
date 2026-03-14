@@ -1,0 +1,1 @@
+AI Chatbot using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) Stack. Uses Ollama's Microsoft Phi3:mini model as the llm to answer your chats. Only runs locally for now. The server runs on NodeJS and the chats are stored in a MongoDB Database. The frontend is made using ReactJS. I have used JWT Tokens to store the session cookies for a particular user.
